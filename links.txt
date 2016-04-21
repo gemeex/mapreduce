@@ -1,1 +1,4 @@
+implementation map reduce in python
+
+//leei kapoia pragmata alla den einai kai teleio 
 http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/
