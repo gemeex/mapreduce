@@ -4,3 +4,6 @@ http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-pyt
 
 //λεει αρκετα πραγματα 
 https://en.wikipedia.org/wiki/MapReduce
+
+//zookeeper
+https://en.wikipedia.org/wiki/Apache_ZooKeeper
