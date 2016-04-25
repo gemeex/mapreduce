@@ -13,3 +13,6 @@ http://static.googleusercontent.com/media/research.google.com/en//archive/mapred
 
 //αλλα link
 https://www.google.com/patents/US20110047172
+
+//πολύ απλό παράδειγμα σε mapreduce (εισαγωγικό)
+https://www-01.ibm.com/software/data/infosphere/hadoop/mapreduce/
